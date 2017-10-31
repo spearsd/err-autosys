@@ -1,0 +1,9 @@
+[Core]
+Name = AutoSys
+Module = autosys
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Example AutoSys plugin
