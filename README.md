@@ -1,2 +1,0 @@
-# err-autosys
-AutoSys example.
