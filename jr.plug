@@ -1,6 +1,6 @@
 [Core]
 Name = AutoSys
-Module = autosys
+Module = jr
 
 [Python]
 Version = 3
