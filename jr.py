@@ -6,4 +6,4 @@ class AutoSys(BotPlugin):
     @botcmd
     def jr(self, msg, args):
         """Output job status"""
-	      return "Test"
+	return "Test"
