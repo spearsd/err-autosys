@@ -1,6 +1,6 @@
 [Core]
 Name = AutoSys
-Module = jr
+Module = job_status
 
 [Python]
 Version = 3
